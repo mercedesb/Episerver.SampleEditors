@@ -1,0 +1,21 @@
+﻿.defaultHeader {
+	width:196px;
+	padding-bottom:5px;
+	display:inline-block;
+}
+
+.selectedByDefaultCheckbox {
+	margin-left: 60px !important;
+	margin-right: 60px !important;
+}
+.dgrid-scroller {
+	position:relative !important;
+}
+
+.dgrid {
+	height: auto !important;
+}
+
+.autocompleteTextbox {
+	width: 500px !important;
+}
