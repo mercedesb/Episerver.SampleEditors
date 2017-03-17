@@ -167,6 +167,8 @@
   <ItemGroup>
     <Compile Include="MakingWavesUIHint.cs" />
     <Compile Include="Models\Attributes\AutocompleteListAttribute.cs" />
+    <Compile Include="Models\Attributes\EnumSelectManyAttribute.cs" />
+    <Compile Include="Models\Attributes\EnumSelectOneAttribute.cs" />
     <Compile Include="Models\Attributes\ImgAltTextRequired.cs" />
     <Compile Include="Models\Attributes\KeyValueItemsAttribute.cs" />
     <Compile Include="Models\Attributes\RequiredIfAttribute.cs" />
