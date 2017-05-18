@@ -180,14 +180,17 @@
     <Compile Include="Models\EditorDescriptors\ImageGalleryEditorDescriptor.cs" />
     <Compile Include="Models\EditorDescriptors\IntegerIdentifierEditorDescriptor.cs" />
     <Compile Include="Models\EditorDescriptors\KeyValueItemsEditorDescriptor.cs" />
+    <Compile Include="Models\EditorDescriptors\PdfReferenceEditorDescriptor.cs" />
     <Compile Include="Models\EditorDescriptors\StringListEditorDescriptor.cs" />
     <Compile Include="Models\EditorDescriptors\TimeOnlyEditorDescriptor.cs" />
+    <Compile Include="Models\Media\SitePDFData.cs" />
     <Compile Include="Models\Properties\PropertyKeyValueItems.cs" />
     <Compile Include="Models\Properties\PropertyStringList.cs" />
     <Compile Include="Models\Selection\CategorySelectionQuery.cs" />
     <Compile Include="Models\Selection\EnumSelectionFactory.cs" />
     <Compile Include="Models\Selection\ISelectionList.cs" />
     <Compile Include="Models\Selection\SelectionListSelectionFactory.cs" />
+    <Compile Include="Models\UIDescriptors\PdfFileUIDescriptor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utility\ObjectExtensions.cs" />
   </ItemGroup>
