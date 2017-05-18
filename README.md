@@ -1,5 +1,5 @@
 # Episerver.SampleEditors
-Sample editor descriptors and dojo editors for Episerver sites
+Sample editor descriptors and dojo editors for Episerver sites to create a simple editing experience for the user
 
 Currently there are the following Episerver editors:
 - Autocomplete List - let the editor enter a list of strings with autocomplete suggestions
